@@ -12,30 +12,30 @@
 }
 
 .theme-dark {
-  --text-normal: #f8e1e5;
-  --header-primary: #f8e1e5;
-  --interactive-normal: #fab1bd;
-  --channels-default: #f8e1e5;
-  --text-muted: #e2c1c7;
-  --interactive-muted: #ad8c91;
-  --header-secondary: #e2c1c7;
-  --interactive-hover: #e2c1c7;
-  --interactive-active: #e2c1c7;
-  --background-primary: #5e3640;
-  --background-secondary: #49292f;
-  --background-secondary-alt: #3b1d24;
-  --background-tertiary: #220f14;
-  --background-floating: #221115;
-  --background-accent: #c5536c;
+  --text-normal: #F2F5F1;
+  --header-primary: #e0e4dc;
+  --interactive-normal: #cfdbd0;
+  --channels-default: #9ea39d;
+  --text-muted: #bcc5b9;
+  --interactive-muted: #495046;
+  --header-secondary: #D7E0D4;
+  --interactive-hover: #D7E0D4;
+  --interactive-active: #ffffff;
+  --background-primary: #454745;
+  --background-secondary: #353635;
+  --background-secondary-alt: #252524;
+  --background-tertiary: #282927;
+  --background-floating: #2d2e2d;
+  --background-accent: #939e93;
   --activity-card-background: var(--background-secondary-alt);
   --channeltextarea-background: var(--background-secondary);
-  --background-modifier-hover: rgba(56, 31, 31, 0.32);
-  --background-modifier-active: rgba(19, 12, 12, 0.32);
-  --background-modifier-selected: rgba(31, 21, 21, 0.32);
-  --toast-background: #5e3640 !important;
-  --toast-header: #3b1d24 !important;
-  --toast-contents: #49292f !important;
-  --toast-border: #49292f !important;
+  --background-modifier-hover: rgba(63, 71, 63, 0.32);
+  --background-modifier-active: rgba(58, 66, 58, 0.32);
+  --background-modifier-selected: rgba(63, 66, 62, 0.32);
+  --toast-background: #455440 !important;
+  --toast-header: #3B4837 !important;
+  --toast-contents: #313C2D !important;
+  --toast-border: #191E17 !important;
   --scrollbar-auto-thumb: var(--background-tertiary);
   --scrollbar-auto-track: var(--background-secondary-alt);
   --scrollbar-thin-thumb: var(--background-tertiary);
@@ -43,20 +43,20 @@
   --deprecated-quickswitcher-input-background: var(--background-primary);
 }
 .theme-dark .colorBrand-ROmMP1 {
-  color: #c5536c;
+  color: #638A53;
 }
 .theme-dark .colorDefault-2K3EoJ.focused-3afm-j, .theme-dark .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
   background-color: var(--background-modifier-hover) !important;
 }
 .theme-dark .lookFilled-1Gx00P {
-  background-color: #c5536c !important;
+  background-color: #859B7E !important;
 }
 .theme-dark .lookFilled-1Gx00P:active, .theme-dark .lookFilled-1Gx00P:hover {
-  background-color: #b64a61 !important;
+  background-color: #446e44 !important;
 }
 .theme-dark .lookOutlined-3sRXeN:not(.colorWhite-rEQuAQ) {
-  color: #c5536c;
-  border-color: #c5536c;
+  color: #859B7E;
+  border-color: #859B7E;
 }
 .theme-dark .colorDefault-2K3EoJ.focused-3afm-j, .theme-dark .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
   color: var(--interactive-normal);
