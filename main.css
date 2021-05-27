@@ -1674,7 +1674,7 @@
   }
 
   .container-2lgZY8::after {
-    content: "☽  ✩  ☾";
+    content: "Stay comfy ❤";
     position: fixed;
     top: 220px;
     bottom: 85px;
@@ -1701,7 +1701,7 @@
     z-index: -1;
     width: 300px;
     border-radius: var(--border-radius);
-    background: url("https://www.picgifs.com/graphics/f/fairies/graphics-fairies-978098.gif") bottom/40% no-repeat;
+    background: url("https://i.imgur.com/dCd49s0.gif") bottom/40% no-repeat;
   }
 
   .guilds-1SWlCJ + :nth-child(2) {
